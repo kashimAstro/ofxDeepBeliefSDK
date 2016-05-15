@@ -1,0 +1,2 @@
+ofxDeepBeliefSDK
+ofxRPiCameraVideoGrabber
